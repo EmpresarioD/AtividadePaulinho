@@ -1,0 +1,19 @@
+#texto{
+    text-align: center;
+}
+#row{
+    text-align: start;
+    margin-right: 2px;
+}
+#top{
+    margin-right: 10vw;
+}
+.mencoes{
+    width: 6vh;
+    text-align: center;
+    padding-top: 2vw;
+    padding-right: 1vh;
+}
+table, th, td {
+  border: 0.2px solid black;
+}
